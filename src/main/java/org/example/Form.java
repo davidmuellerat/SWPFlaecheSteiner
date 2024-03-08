@@ -1,7 +1,7 @@
 package org.example;
 
 abstract public class Form
-{
+ {
     //Koordinaten des linken oberen Punktes
     private int x;
     private int y;
