@@ -10,6 +10,7 @@ public class KreisTest {
         Kreis kreis = new Kreis(0, 0, 5);
         double erwarteterUmfang = 2 * 5 * Math.PI;
         assertEquals(erwarteterUmfang, kreis.berechneUmfang(), 0.001);
+        //test
     }
 
     @org.junit.Test
